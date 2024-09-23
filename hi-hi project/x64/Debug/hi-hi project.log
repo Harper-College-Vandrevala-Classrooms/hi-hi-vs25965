@@ -1,2 +1,9 @@
 ﻿  hi-hi project.cpp
+C:\Users\varga\Documents\GitHub\hi-hi-vs25965\hi-hi project\compare.h(43,9): warning C4102: 'outer1': unreferenced label
+  (compiling source file 'hi-hi%20project.cpp')
+  
+C:\Users\varga\Documents\GitHub\hi-hi-vs25965\hi-hi project\compare.h(74,3): warning C4102: 'outer2': unreferenced label
+  (compiling source file 'hi-hi%20project.cpp')
+  
+C:\Users\varga\Documents\GitHub\hi-hi-vs25965\hi-hi project\compare.h(102): warning C4715: 'compare::strcmp_case_insensitive': not all control paths return a value
   hi-hi project.vcxproj -> C:\Users\varga\Documents\GitHub\hi-hi-vs25965\hi-hi project\x64\Debug\hi-hi project.exe
